@@ -1,0 +1,4 @@
+dbt-bigquery
+apache-beam[gcp]
+google-cloud-storage
+google-cloud-bigquery
